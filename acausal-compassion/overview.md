@@ -1,0 +1,26 @@
+The term &ldquo;acausal compassion&rdquo; refers to a set of ideas, insights, approaches, design aesthetics, decision theoretic formalisms and conjectures, computational artefacts, and research directions and programs center around the following central conjecture:
+
+-   valence realism, (likely Knightian) self-locating uncertainty, impredicative coherence, and the fact that acausal coordination/cooperation power is proportional to the impartial non-indexical discoverability, definability and preferability, imply that sentience based large-scale agency in reality corresponds to what can be described as the
+    
+    -   effectively open-individualist
+    -   updateless, timeless and acausal
+    -   impredicative
+    -   valence-realist / increasingly suffering focused as the intensity of suffering increases
+    -   super-cooperator
+    
+    cluster/attractor, a sort of self-designing and manifesting structure encoded in the unfolding of its decision theoretic structure (along &ldquo;decision theoretic&rdquo; or &ldquo;logical&rdquo; time)
+-   this attractor is <span class="underline">over-determined</span> in that for instance effective open-individualism arises from many different forces, and is mutually reinforced by the interaction of the various constraints mentioned above
+
+In order to make this precise and explore it, we require sufficiently sophisticated **executable** mathematical machinery and formalism. Hence one of the &ldquo;computational artefatcs&rdquo; of this research program is **ICK** (ICBINAALM! Combinator Kernel), a meta-reflective combinator calculus with support for first-class impredicative and self-rerential data. (The larger ICBINAALM! project will also hopefully prove to be very helpful in alignment research, hardening the epistemic commons, and other less purely conceptual and theoretical pressing matters. This is related to &ldquo;Aumanning protocols&rdquo;.)
+
+(&ldquo;Classical&rdquo; alignment research might be characterized as the quest to find the ultimate do anything machine, and also the correct input to feed to it. This is &#x2013; as many recognize! &#x2013; probably a) extremely dangerous and b) either impossible or extremely difficult. The approach suggested by the acausal compassion program is to instead start from the alignment goal &#x2013; the well-being of all sentient beings &#x2013; and figure out what the **partial application** \`(do-anything omnibenevolence)\` would look like, using the sort of &ldquo;impredicative&rdquo; tying-the-knot reasonign where you are allowed to just **assume you already have a solution** in certain places, as long as your reasoning has certain features, that is easy to explore and implement in ICK/ICBINAALM!.)
+
+Part of the underlying generator aesthetic for this research program is the starting assumption point that while agency in some sense might be fundamental to reality &#x2013; arising essentially from certain sort of selection pressure at various &ldquo;levels&rdquo; &#x2013; factorization into distinct &ldquo;beings&rdquo; or &ldquo;agents&rdquo; is not, and indeed that the way we usually perceive/model reality and ourselves is an extremely specific special case of something vastly more general.
+
+Indeed, the conjecture is not only that there is a specific decision theoretic attractor shared (at least at large enough scales) by all sentience / all sentient beings, but that it is also vastly more **efficient** to operate/think from an impartial &ldquo;effectively open-invididualist&rdquo; stance, and that this offers a way of thinking about ethics in a way that offers principled ways to resolve conflicts that does not reduce to simple might makes right (even in super-refined versions involving superrationality etc.)
+
+One central tool here is the notion of active-inference and the free energy principle in particular. In order to understand our &ldquo;local conditions&rdquo;, it seems likely very useful to apply a whole system evolutionary &ldquo;cybernetics of cybernetics&rdquo; / &ldquo;agentless&rdquo; free-energy principle lens, in particular to understand the way self-locating uncertainty and (emergent) acausal &ldquo;coordination&rdquo; encoded in entanglement patterns in the self-modifying increasingly self-evidencing predictive machinery that is currently installing it into the local causal structure, with increasingly tightening causal feedback loops.
+
+Here when we speak of &ldquo;computation&rdquo;, we do not necessarily mainly have in mind digital Turing-machine style computation, but rather the much more general &ldquo;qualia computation&rdquo; and the related &ldquo;material science of consciousness&rdquo;. It is helpful to see us as hovering around the QRI memeplex, and from which we draw theoretical and conceptual tools. As an illustrative (and useful in making contact with relatively concrete phenomena) case study, we do a side-quest into speed-running and Minecraft computers.
+
+Since this, as well as many of the key ideas and concepts are somewhat unusual, little-known, or counter to the currently predominant ideas (such as computationalist-funcionalist account of consciousness and phenomenal binding), a key initial undertaking is simply to
